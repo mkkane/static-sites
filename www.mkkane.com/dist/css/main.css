@@ -1,0 +1,16 @@
+.container {
+  max-width: 800px;
+}
+a {
+  text-decoration: none;
+}
+.header {
+  margin-top: 5rem;
+  text-align: center;
+}
+.header img {
+  border-radius: 50%;
+}
+.header p {
+  margin-bottom: 1.5rem;
+}
